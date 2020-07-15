@@ -1,2 +1,2 @@
-# AtabHussain_Assignment_4B_PHummingbird_Penguins
-The Assignment 4B Humming Bird and Penguins Games are  implemented .
+# Assignment_4B_AftabHussain
+ The Penguins and Humming Bird Tutorial is imlemented as a TOC Assignment
